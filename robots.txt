@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suducodes.github.io/sitemap.xml
